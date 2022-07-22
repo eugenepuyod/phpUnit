@@ -1,4 +1,8 @@
 <?php
+// Php version required PHP 8.1.2 or latest
+// composer require --dev phpunit/phpunit ^9.5
+// composer update
+
 // To run the phpunit
 // ./vendor/bin/phpunit --testdox or ./vendor/bin/phpunit
 
