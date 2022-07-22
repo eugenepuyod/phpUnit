@@ -1,4 +1,6 @@
 <?php
+// To run the phpunit
+// ./vendor/bin/phpunit --testdox or ./vendor/bin/phpunit
 
 class CalculatorTest extends \PHPUnit\Framework\TestCase {
     public function testAdd() {
